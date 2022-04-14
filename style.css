@@ -5,10 +5,6 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
-@media screen and (max-width:800px){
-
-}
-
 #navBar{
     display: flex;
     align-items: center;
