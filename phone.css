@@ -1,0 +1,68 @@
+#navBar{
+    flex-direction: column;
+}
+
+#navBar ul li a{
+    padding: 0px 5px;
+    margin: 0px 0px;
+}
+
+#navBar ul{
+    margin-bottom: 8px;
+}
+
+#home{
+    margin-top:-25px
+}
+.h-primary{
+    font-family: 'Anek Bangla', sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+
+.p-primary{
+    font-family: 'Anek Bangla', sans-serif;
+    color: black;
+    font-size: 1rem;
+}
+
+.serviceContainer{
+    flex-direction: column;
+}
+
+.box{
+    padding: 0px 0px;
+    margin: 2px 5px;
+}
+
+#partner_{
+    flex-wrap: wrap;
+}
+
+
+
+.patner-client{
+    /* border: 3px solid red; */
+    padding: 0px 0px;
+    margin: 0px 15px;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* border-radius: 20px; */
+    /* background-color: rgb(248, 233, 233); */
+}
+
+.container img{
+    height: 50px;
+    margin: 0px 0px;
+}
+
+.contactbox{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 70px;
+}
+
+footer{
+    font-size: 15px;
+    bottom: 0%;
+}
